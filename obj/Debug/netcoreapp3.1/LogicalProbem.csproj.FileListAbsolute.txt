@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\LogicalProbem\obj\Debug\netcoreapp3.1\LogicalProbem.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LogicalProbem\obj\Debug\netcoreapp3.1\LogicalProbem.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LogicalProbem\obj\Debug\netcoreapp3.1\LogicalProbem.AssemblyInfo.cs
+C:\Users\admin\source\repos\LogicalProbem\obj\Debug\netcoreapp3.1\LogicalProbem.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LogicalProbem\bin\Debug\netcoreapp3.1\LogicalProbem.exe
+C:\Users\admin\source\repos\LogicalProbem\bin\Debug\netcoreapp3.1\LogicalProbem.deps.json
+C:\Users\admin\source\repos\LogicalProbem\bin\Debug\netcoreapp3.1\LogicalProbem.runtimeconfig.json
+C:\Users\admin\source\repos\LogicalProbem\bin\Debug\netcoreapp3.1\LogicalProbem.runtimeconfig.dev.json
+C:\Users\admin\source\repos\LogicalProbem\bin\Debug\netcoreapp3.1\LogicalProbem.dll
+C:\Users\admin\source\repos\LogicalProbem\bin\Debug\netcoreapp3.1\LogicalProbem.pdb
+C:\Users\admin\source\repos\LogicalProbem\obj\Debug\netcoreapp3.1\LogicalProbem.dll
+C:\Users\admin\source\repos\LogicalProbem\obj\Debug\netcoreapp3.1\LogicalProbem.pdb
+C:\Users\admin\source\repos\LogicalProbem\obj\Debug\netcoreapp3.1\LogicalProbem.genruntimeconfig.cache
